@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "dev:server": "json-server server.json -w -d 500"
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.0.2",
