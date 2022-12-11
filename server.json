@@ -15,6 +15,22 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2022-12-09T14:30:07.946Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-12-11T18:54:53.753Z",
+      "id": 3
+    },
+    {
+      "description": "Chocolate",
+      "price": 8,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-12-11T22:41:57.501Z",
+      "id": 4
     }
   ]
 }
