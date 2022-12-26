@@ -1,5 +1,42 @@
 # DT Money
 
+## English
+
+### What is the project?
+
+This is a project of your digital wallet where you can mark inputs and outputs (money you received and money you spent) in order to learn about using the API with the Axios library to consume APIs, in addition to using Json Server to leave the FrontEnd ready for when the Backend is ready, in addition to learning about performance in React and when to use certain hooks and functions such as memo, useMemo, useCallback and the createContext of the Use Context Selector and for creating modals the Radix UI library
+
+### Main technologies
+
+- axios
+- json-server
+- @radix-ui/react-dialog
+- @radix-ui/react-radio-group
+- react-hook-form (@hookform/resolvers)
+- styled-components
+- use-context-selector (scheduler)
+- zod
+
+### How to install
+
+**1 - To clone the project**
+
+```npm
+git clone https://github.com/pedrOAlquimim/dt-money.git
+```
+
+**2 - To install the dependencies**
+
+```npm
+npm install
+```
+
+**3 - Run the project locally**
+
+```npm
+npm run dev
+```
+
 ## Português
 
 ### O que é o projeto?
@@ -16,3 +53,23 @@ Este é um projeto de uma carteira digital sua onde você pode marcar entradas e
 - styled-components
 - use-context-selector (scheduler)
 - zod
+
+### Como instalar
+
+**1 - Clonar o projeto**
+
+```npm
+git clone https://github.com/pedrOAlquimim/dt-money.git
+```
+
+**2 - Instalar as dependências**
+
+```npm
+npm install
+```
+
+**3 - Abrir o projeto localmente**
+
+```npm
+npm run dev
+```
