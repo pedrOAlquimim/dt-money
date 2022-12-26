@@ -14,7 +14,7 @@ This is a project of your digital wallet where you can mark inputs and outputs (
 - @radix-ui/react-radio-group
 - react-hook-form (@hookform/resolvers)
 - styled-components
-- use-context-selector (scheduler)
+- use-context-selector + scheduler
 - zod
 
 ### How to install
