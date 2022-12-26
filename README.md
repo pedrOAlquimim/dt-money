@@ -19,13 +19,13 @@ This is a project of your digital wallet where you can mark inputs and outputs (
 
 ### How to install
 
-**1 - To clone the project**
+**1 - Clone the project**
 
 ```npm
 git clone https://github.com/pedrOAlquimim/dt-money.git
 ```
 
-**2 - To install the dependencies**
+**2 - Install the dependencies**
 
 ```npm
 npm install
