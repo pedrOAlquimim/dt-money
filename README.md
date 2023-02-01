@@ -8,14 +8,13 @@
 
 ### Main technologies
 
-- axios
-- json-server
-- @radix-ui/react-dialog
-- @radix-ui/react-radio-group
-- react-hook-form (@hookform/resolvers)
-- styled-components
-- use-context-selector + scheduler
-- zod
+- Axios
+- Json Server
+- Radix UI (Dialog / Radio Group)
+- React Hook Form (@hookform/resolvers)
+- Styled Components
+- Use Context Selector + Scheduler
+- Zod
 
 ### How to install and use
 
@@ -34,7 +33,7 @@ npm install
 **3 - Create a .env.local file on project root and the following var**
 
 ```.env
-apiUrl="http://localhost:3000"
+VITE_API_URL="http://localhost:3000"
 ```
 
 **4 - Run the project and Json Server locally**
@@ -52,14 +51,13 @@ npm run dev
 
 ### Principais tecnologias
 
-- axios
-- json-server
-- @radix-ui/react-dialog
-- @radix-ui/react-radio-group
-- react-hook-form (@hookform/resolvers)
-- styled-components
-- use-context-selector (scheduler)
-- zod
+- Axios
+- Json Server
+- Radix UI (Dialog / Radio Group)
+- React Hook Form (@hookform/resolvers)
+- Styled Components
+- Use Context Selector + Scheduler
+- Zod
 
 ### Como instalar
 
@@ -78,7 +76,7 @@ npm install
 **3 - Criar um .env.local na raiz do projeto file e a seguinte var**
 
 ```.env
-apiUrl="http://localhost:3000"
+VITE_API_URL="http://localhost:3000"
 ```
 
 **4 - Abrir o projeto e Json Server localmente**
@@ -87,3 +85,8 @@ apiUrl="http://localhost:3000"
 npm run dev:server
 npm run dev
 ```
+
+### Project Images
+
+![Project Image](/src/assets/project/image0.png)
+![Project Image](/src/assets/project/image1.png)
